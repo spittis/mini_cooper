@@ -1,1 +1,1 @@
-# mini_cooper
+# a2_Week7_AJAX
