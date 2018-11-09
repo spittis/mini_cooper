@@ -1,5 +1,7 @@
 (() => {
+    //rework this with a vue instance
 
+    //grab the car buttons
     const cars = document.querySelectorAll('.data-ref'); //add some event handling at the bottom, check url //declaring cars
 
     function getData() {
